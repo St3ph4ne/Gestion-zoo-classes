@@ -5,5 +5,5 @@
  */
 
  interface DeliveryInterface{
-   
+   function deliver();
  }

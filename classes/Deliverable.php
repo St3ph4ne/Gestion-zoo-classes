@@ -1,5 +1,7 @@
 <?php
 
-class Deliverable {
-
+interface Deliverable {
+  /**
+   * permet 
+   */
 }

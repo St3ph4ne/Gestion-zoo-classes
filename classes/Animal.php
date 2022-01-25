@@ -2,14 +2,18 @@
 
 abstract class Animal {
 
-  public static int $count = 0;
+  /**
+   * compteur pour les animaux :
+   */
+  // public static int $count = 0;
 
-  function __construct(){
-    self::$count ++;
-  }
+  // function __construct(){
+  //   self::$count ++;
+  // }
 
-  function __destruct(){
-  }
+  // function __destruct(){
+  // }
 
+  
 
 }
